@@ -10,8 +10,8 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
-          className="App-link"
-          href="https://reactjs.org"
+          className="AUT Link"
+          href="https://www.aut.ac.nz/"
           target="_blank"
           rel="noopener noreferrer"
         >
